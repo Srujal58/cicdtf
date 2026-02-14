@@ -13,7 +13,7 @@ Infrastructure and delivery workflows are treated entirely as code, enabling con
 
 ## 🏗️ Architecture Diagram
 
-![CI/CD Architecture using GitLab and Terraform](diagrams/architecture.png)
+![CI/CD Architecture using GitLab and Terraform](diagrams/CICDTF.png)
 
 
 ## 🏗️ Architecture Summary
@@ -92,12 +92,7 @@ This project was built to:
 
 ---
 
-## 📎 Repository
 
-🔗 **GitHub Repository:**  
-_Add your repository link here_
-
----
 
 ## 📌 Future Enhancements (Optional)
 
